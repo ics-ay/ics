@@ -1,0 +1,32 @@
+# Local LLM profile manifest
+# Add new local LLM entries here and reference them from profile files.
+
+models:
+  qwen2.5-coder-7b-instruct:
+    display_name: Qwen2.5 Coder 7B Instruct
+    model_id: Qwen2.5-Coder-7B-Instruct
+    server: http://127.0.0.1:1234
+    description: Stable local coding assistant optimized for VS Code integration.
+
+  qwen3-llm-8b:
+    display_name: Qwen3 LLM 8B
+    model_id: Qwen3-LLM-8B
+    server: http://127.0.0.1:1235
+    description: Latest local LLM for general reasoning and code generation.
+
+  ollama-llm-13b:
+    display_name: Ollama Local LLM 13B
+    model_id: ollama::llama2
+    server: http://127.0.0.1:11434
+    description: Local Ollama model endpoint. Run `ollama serve` and use the Ollama HTTP API.
+
+  local-llm-x:
+    display_name: Local LLM X
+    model_id: Local-LLM-X
+    server: http://127.0.0.1:1236
+    description: Placeholder for future local model additions.
+
+profiles:
+  unified: qwen2.5-coder-7b-instruct
+  developer: qwen2.5-coder-7b-instruct
+  hybrid: qwen2.5-coder-7b-instruct

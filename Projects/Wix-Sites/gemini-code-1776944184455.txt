@@ -1,0 +1,3 @@
+Create a high-contrast, modern contact section for business inquiries. The background should be a dark, deep charcoal. On the left side, include a bold headline: "Ready to Elevate Your Potential?" and a short paragraph: "Whether you need transformative consulting or innovative digital solutions, let's build the future together." 
+
+On the right side, generate a clean, minimalist 4-field contact form (Name, Work Email, Company, and a dropdown for 'How can we help?'). The form fields should use modern bottom-borders only, rather than full heavy boxes. The submit button should say "Submit Business Inquiry".

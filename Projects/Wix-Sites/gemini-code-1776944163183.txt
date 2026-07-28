@@ -1,0 +1,5 @@
+Create a modern-minimalist hero section for a resilience-focused tech consulting and talent services startup named Intelevate. The layout should have a massive amount of whitespace, no standard stock photography, and a clean, high-end SaaS feel. 
+
+Include a bold H1 headline: "Transforming Workforces. Bridging the Gap."
+Include a shorter H3 sub-headline: "Empowering individuals, scaling businesses, and partnering with institutions for the digital era."
+Include two buttons: A primary solid button labeled "Book a Consultation" and a secondary ghost button labeled "Explore Services". Ensure the layout is perfectly centered and highly responsive.

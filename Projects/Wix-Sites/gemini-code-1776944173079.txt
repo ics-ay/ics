@@ -1,0 +1,7 @@
+Create a clean, 3-column services grid layout with a premium, tech-startup aesthetic. This section needs to act as a split-path routing engine. Each of the 3 columns should look like a sleek, minimalist card with subtle padding.
+
+Card 1: Icon representing personal growth. Title: "For Individuals". Subtext: "Hands-on training, mentoring, and TALENTWISER career certifications." Link text: "Elevate Your Career".
+Card 2: Icon representing corporate scaling/buildings. Title: "For Businesses". Subtext: "Digital transformation, METAMINDS staffing, and custom tech solutions." Link text: "Scale Your Business".
+Card 3: Icon representing a university or network. Title: "For Institutions". Subtext: "Bridge the gap between academia and industry demands." Link text: "Partner With Us".
+
+Ensure the cards stack perfectly into a single column on mobile devices.
